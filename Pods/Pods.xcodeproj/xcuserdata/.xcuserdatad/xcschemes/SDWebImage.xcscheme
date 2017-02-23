@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '5575A66C4FEB13A21297AD0C22AC46CB'
+               BlueprintIdentifier = 'E8462253990B8ACED1B27CD2EC41D390'
                BlueprintName = 'SDWebImage'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libSDWebImage.a'>

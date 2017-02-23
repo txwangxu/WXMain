@@ -21,6 +21,8 @@ target 'WXMain' do
   
   pod 'SDWebImage'
   
+  pod 'FMDB'
+  
 #   pod 'ReactiveObjC'
   
   pod 'Reveal-iOS-SDK' ,:configurations => ['Debug']
